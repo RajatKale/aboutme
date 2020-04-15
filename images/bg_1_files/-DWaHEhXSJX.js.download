@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["vlgQA"]); }
+
+__d("XInstreamReservedBuyingSponsorshipFetchController",["XController"],(function(a,b,c,d,e,f){e.exports=b("XController").create("/ad_breaks/instream_reserved_buying/sponsorship_fetch/",{creator_page_id:{type:"FBID",required:!0},advertiser_page_id:{type:"FBID",required:!0}})}),null);
